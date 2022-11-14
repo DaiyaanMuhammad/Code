@@ -1,0 +1,18 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/daiyaan/Code/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
+getIndexof_SecondMaxVal	BeeCrowd.c	/^int getIndexof_SecondMaxVal(int *arr, int len)$/;"	f	typeref:typename:int
+isAlphabet	test.c	/^int isAlphabet(char c)$/;"	f	typeref:typename:int
+isMatching	test.c	/^int isMatching(char *s1, char *s2)$/;"	f	typeref:typename:int
+main	BeeCrowd.c	/^int main()$/;"	f	typeref:typename:int
+main	temp.c	/^int main(){$/;"	f	typeref:typename:int
+main	test.c	/^int main()$/;"	f	typeref:typename:int
+strAnal	temp.c	/^int * strAnal(char s[100])$/;"	f	typeref:typename:int *

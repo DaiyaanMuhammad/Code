@@ -2,7 +2,7 @@
 #include <stdarg.h>
 #include <time.h>
 #include <stdlib.h>
-#include "matrix.h"
+#include "./lib/matrix.h"
 
 int main(){
 	srand(time(NULL)); //for random generated entry values
